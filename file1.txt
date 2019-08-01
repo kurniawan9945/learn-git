@@ -1,2 +1,3 @@
 Pertama kali membuat file dalam github
 Menambahkan baris pertama pada file1.txt
+Menambahkan baris ketiga pada file1.txt
