@@ -4,6 +4,7 @@ Target di semester 5
   - js fundamental
     * framework js
     * backend with js (node js)
+  - design ui/ux
   - java fundamental
-    * Pemrograman Android Pemula
-    * Pemrograman Kotli
+    * Pemrograman Android
+    * Pemrograman Kotlin
