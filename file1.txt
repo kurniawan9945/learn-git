@@ -1,1 +1,2 @@
 Pertama kali membuat file dalam github
+Menambahkan baris pertama pada file1.txt
