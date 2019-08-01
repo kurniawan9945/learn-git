@@ -1,1 +1,9 @@
 Membuat file kedua untuk project learn-git
+Target di semester 5
+  - git
+  - js fundamental
+    * framework js
+    * backend with js (node js)
+  - java fundamental
+    * Pemrograman Android Pemula
+    * Pemrograman Kotli
